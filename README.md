@@ -2,7 +2,7 @@
 
 I'm a Front-end Developer passionate about learning, always looking for new challenges that makes me improve my skills.
 
-- 💻 Currently working with: React.js, Javascript, NodeJS, Firebase, HTML, CSS.
+- 💻 Currently working with: React.js, Javascript, NodeJS, HTML, CSS, Bootstrap, SQL, Firebase.
 - 🛠 Other tools: Figma, Git, Github, Trello, VSCode.
 
 ## About me
